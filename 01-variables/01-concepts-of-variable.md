@@ -3,6 +3,7 @@
 ## What is variable?
 
 A variable is a **named memory location** used to store data or values. The value stored in a variable can change during program execution.
+
 ---
 
 ## why do we need variable?
