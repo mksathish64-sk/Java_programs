@@ -7,7 +7,7 @@ public class variable
         float b = 20.555555555f; // variable declaration and initialization
         double c = 30.5556785746658;   
         char d = 'B';
-        boolean e = true;
+        boolean e = false;
         System.out.println("Integer value: " + a);
         System.out.println("Float value: " + b);
         System.out.println("Double value: " + c);
